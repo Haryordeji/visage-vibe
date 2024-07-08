@@ -1,5 +1,5 @@
-from emotion_detector import EmotionDetector
-from spotify_recommender import SpotifyRecommender
+from src.emotion_detector import EmotionDetector
+from src.spotify_recommender import SpotifyRecommender
 
 class MoodMusicRecommender:
     def __init__(self):
